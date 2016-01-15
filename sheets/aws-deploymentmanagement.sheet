@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+        <name>aws-deploymentmanagement</name>
+        <description>aws-deploymentmanagement</description>
+        <contents>
+        <object name="aws-deploymentmanagement - DeploymentManagement_CodePipeline"><description>DeploymentManagement_CodePipeline</description></object><object name="aws-deploymentmanagement - DeploymentManagement_CodeDeploy"><description>DeploymentManagement_CodeDeploy</description></object><object name="aws-deploymentmanagement - DeploymentManagement_AWSCodeCommit"><description>DeploymentManagement_AWSCodeCommit</description></object></contents>
+        </sheet>

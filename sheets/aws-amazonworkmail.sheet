@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+        <name>aws-amazonworkmail</name>
+        <description>aws-amazonworkmail</description>
+        <contents>
+        <object name="aws-amazonworkmail - AmazonWorkMail"><description>AmazonWorkMail</description></object></contents>
+        </sheet>

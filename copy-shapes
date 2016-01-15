@@ -1,0 +1,3 @@
+mkdir -p ~/.dia/shapes/ ~/.dia/sheets/
+cp -R ./shapes/* ~/.dia/shapes/
+cp -R ./sheets/* ~/.dia/sheets/

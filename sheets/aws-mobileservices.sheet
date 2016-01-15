@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+        <name>aws-mobileservices</name>
+        <description>aws-mobileservices</description>
+        <contents>
+        <object name="aws-mobileservices - MobileServices_DeviceFarm"><description>MobileServices_DeviceFarm</description></object><object name="aws-mobileservices - MobileServices_Cognito"><description>MobileServices_Cognito</description></object><object name="aws-mobileservices - MobileServices_SNS_HTTPNotification"><description>MobileServices_SNS_HTTPNotification</description></object><object name="aws-mobileservices - MobileServices_SNS_EmailNotification"><description>MobileServices_SNS_EmailNotification</description></object><object name="aws-mobileservices - MobileServices_SNS_Topic"><description>MobileServices_SNS_Topic</description></object><object name="aws-mobileservices - MobileServices_SNS"><description>MobileServices_SNS</description></object><object name="aws-mobileservices - MobileServices_AWSMobileHub"><description>MobileServices_AWSMobileHub</description></object><object name="aws-mobileservices - MobileServices_MobileAnalytics"><description>MobileServices_MobileAnalytics</description></object></contents>
+        </sheet>
